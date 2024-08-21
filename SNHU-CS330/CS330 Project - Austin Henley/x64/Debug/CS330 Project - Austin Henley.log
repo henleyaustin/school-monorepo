@@ -1,0 +1,10 @@
+﻿  Main.cpp
+C:\Users\Eckox\source\repos\CS330 Project - Austin Henley\Main.cpp(204,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eckox\source\repos\CS330 Project - Austin Henley\Main.cpp(795,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eckox\source\repos\CS330 Project - Austin Henley\Main.cpp(796,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eckox\source\repos\CS330 Project - Austin Henley\Main.cpp(800,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eckox\source\repos\CS330 Project - Austin Henley\Main.cpp(801,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eckox\source\repos\CS330 Project - Austin Henley\Main.cpp(803,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eckox\source\repos\CS330 Project - Austin Henley\Main.cpp(804,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eckox\source\repos\CS330 Project - Austin Henley\Main.cpp(815,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CS330 Project - Austin Henley.vcxproj -> C:\Users\Eckox\source\repos\CS330 Project - Austin Henley\x64\Debug\CS330 Project - Austin Henley.exe

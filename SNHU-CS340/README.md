@@ -1,0 +1,13 @@
+# SNHU-CS340
+
+## How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+
+The CRUD module is a great example of maintainable, readable and adaptable code. A thought out CRUD module is modular, clean and well commented. I encapsulated each Create, Read, Update and Delete operation as seperate functions, making it reusable and easy to understand. By structuring it as smaller pieces, I was able to connect the dashboard in Project Two without any changes to the original CRUD code. The advantage to this type of design was that it was easy to troubleshoot and integrate. I could see both this type of modular design and specifically the CRUD module being used anywhere where there are multiple systems being integrated and data is involved.
+
+## How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+
+THe most important part of this was clearly understanding the requirements. Understanding what is needed by the user, Grazioso Salvare in this example, is the most important part of creating a product. Alot of prototyping was done throughout the project, especially in the dashboard. I would write out very simple demos of what I wanted, and then work them towards a final look I envisioned. This project had more real-world complexities compared to other projects. Trying to get a good user experience but also make sure the data there was useful and complete was a challenge. With future projects, I will most likely stick with the prototyping methods I used during this one. It really helped to make working code and then improve upon it.
+
+## What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+Computer scientists solve problems using computational thinking. They can design systems that scale, adapt and imporve tasks used in the real world. On a project like Grazioso Salvare's dashboard, this type of work would streamline and imporve the service animal training process. It would make an impact on how their business is ran and affect just how many service animals they can get out into the world.
